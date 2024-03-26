@@ -1,0 +1,5 @@
+streamlit
+transformers
+annoy
+PyPDF2
+torch
