@@ -23,7 +23,7 @@ The PDF Question Answering System consists of the following key components:
 ## Installation and Setup
 To set up the PDF Question Answering System locally, follow these steps:
 
-1. Clone the project repository from [GitHub](https://github.com/your-repo).
+1. Clone the project repository from [GitHub](https://github.com/ihpolash/qna-system-bert.git).
 
 2. Install the required dependencies by running the following command:
    ```
